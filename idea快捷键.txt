@@ -1,0 +1,11 @@
+idea工作空间：C:\Users\wmw_3\IdeaProjects
+
+ctrl + o 实现方法
+alt + insert 导包
+ctrl + alt + 左/右 返回上一个位置
+pom文件 右键dialog查看依赖关系图
+ctrl + H 查看选中类或接口的继承树
+
+
+th:text 会转义html标签（把html标签转成文本显示）
+th:utext 不会转义html标签（）
